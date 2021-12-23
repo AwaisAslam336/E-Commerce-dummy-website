@@ -1,7 +1,7 @@
 To Use it easly follow these steps...
 1: create a database with name "laravel8"
 
-(in your porject folder cmd write)
+(in your project folder cmd write)
 2: php artisan serve
 3: php artisan migrate
 
